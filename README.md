@@ -9,7 +9,7 @@ Later, I will add more maps with different size and shape. Of course, I will pac
 
 ```python
 sudo apt-get install cmake libboost-all-dev libgtk2.0-dev libsdl2-dev python-numpy
-git clone git@github.com:WangChen100/vizdoomgymmaze.git
+git clone git@github.com:Brodong/vizdoommaze.git
 cd vizdoomgymmaze
 pip install -e .
 ```
