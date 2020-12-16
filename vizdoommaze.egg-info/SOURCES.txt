@@ -1,0 +1,7 @@
+README.md
+setup.py
+vizdoommaze.egg-info/PKG-INFO
+vizdoommaze.egg-info/SOURCES.txt
+vizdoommaze.egg-info/dependency_links.txt
+vizdoommaze.egg-info/requires.txt
+vizdoommaze.egg-info/top_level.txt
